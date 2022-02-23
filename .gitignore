@@ -1,5 +1,5 @@
 .DS_Store
 Thumbs.db
-/.Podfile-a
-.Podfile-a.lock
-Pods-a/
+/Podfile
+/Podfile.lock
+Pods/
